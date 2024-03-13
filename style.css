@@ -1,0 +1,16 @@
+.bi-handbag-fill
+{   padding: 30px;
+    background-color: pink;
+    border-radius: 16px;
+    color: rgb(198, 69, 90);
+    font-size: 50px;
+}
+
+.percent
+{
+    color: red;
+    margin-right: 1300px;
+    border-radius: 16px;
+    padding-left: 10px;
+}
+
